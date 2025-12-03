@@ -1,0 +1,14 @@
+{
+    "use_label_encoder": false,
+    "subsample": 1.0,
+    "reg_lambda": 0.5,
+    "reg_alpha": 0.1,
+    "objective": "multi:softmax",
+    "num_class": 3,
+    "n_estimators": 500,
+    "min_child_weight": 5,
+    "max_depth": 5,
+    "learning_rate": 0.001,
+    "eval_metric": "mlogloss",
+    "colsample_bytree": 0.5
+}

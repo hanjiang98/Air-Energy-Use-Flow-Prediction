@@ -1,0 +1,9 @@
+{
+    "solver": "adam",
+    "learning_rate": "constant",
+    "hidden_layer_sizes": [
+        100
+    ],
+    "alpha": 1e-05,
+    "activation": "logistic"
+}

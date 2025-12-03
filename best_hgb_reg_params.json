@@ -1,0 +1,8 @@
+{
+    "max_leaf_nodes": 63,
+    "max_iter": 300,
+    "max_depth": null,
+    "learning_rate": 0.01,
+    "l2_regularization": 1.0,
+    "early_stopping": true
+}

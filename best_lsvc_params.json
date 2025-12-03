@@ -1,0 +1,6 @@
+{
+    "penalty": "l2",
+    "max_iter": 2000,
+    "loss": "squared_hinge",
+    "C": 7.742636826811277
+}
